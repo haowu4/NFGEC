@@ -1,0 +1,563 @@
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/organization /education/department	/organization /organization/educational_institution
+/organization	/organization /organization/company
+/organization	/organization
+/organization	/organization
+/written_work	/written_work
+/written_work	/written_work
+/title	/title /person
+/organization	/organization /person
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/organization	/organization
+/person	/person /person/author
+/person	/person
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/education/department	/organization
+/person	/person
+/person	/person /person/author
+/person	/person /person/author
+/person	/person /person/author
+/person	/person
+/person	/person /person/author
+/person	/person /person/author
+/person /person/author	/person
+/person	/person
+/person	/person
+/event	/organization
+/location /location/city	/location /location/city /language
+/location /location/province	/location
+/event	/organization
+/time	/time
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/person /person/author	/person /person/author
+/person	/person
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/person	/person
+/organization /education/department	/organization
+/person	/person
+/person	/person
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/person	/person
+/organization /education/department	/organization
+/location /location/city	/location
+/location	/location
+/location /transportation/road	/location
+/organization /government_agency	/organization /government_agency
+/time	/time /event
+/time	/organization
+/location	/location
+/location	/location
+/time	/time
+/time	/time /event
+/organization /government_agency	/government/government /organization /government /government_agency /military
+/title	/title /person
+/person	/person /person/politician
+/time	/time
+/person	/person
+/location /location/city	/location /location/city
+/person	/person
+/person	/person
+/time	/time /event
+/person	/person
+/location /location/city	/location
+/person	/person
+/location /location/city	/location /location/city
+/person	/person /person/author
+/location /location/city	/location
+/person	/person
+/location /location/city	/location
+/time	/event
+/person	/person
+/person	/person
+/location /location/city	/location
+/person	/person
+/location	/location
+/person	/person
+/person	/person
+/location /location/city	/location /location/city
+/time	/event
+/organization /government_agency	/military /organization
+/person	/person
+/person	/person
+/location /location/country	/government_agency /location /person /person/artist /location/country /title /location/cemetery /language
+/person	/person
+/government/government	/organization /government
+/person /person/politician	/person
+/organization /organization/sports_league	/organization /organization/company /news_agency
+/location /location/city	/location /location/city
+/government_agency	/organization
+/person /person/politician	/person
+/person	/person
+/time	/time
+/person	/person
+/person	/person
+/person	/person
+/location	/location
+/organization /organization/company /news_agency	/written_work
+/time	/location /time
+/organization /organization/sports_league	/organization /organization/company
+/location /location/city	/location /location/city
+/person /person/politician	/person /person/author
+/person	/person
+/time	/time
+/location /location/city	/location /location/city
+/organization /organization/company /news_agency	/written_work /person /organization /news_agency
+/time	/time
+/location /location/city /location/county	/location/city /location /location/county
+/person	/person
+/location /location/city	/location /location/city
+/person	/person
+/person	/person
+/person	/person /person/actor /person/politician
+/time	/time
+/written_work	/organization
+/organization /organization/company /news_agency	/organization /written_work /news_agency
+/law	/law /organization
+/time	/location
+/person	/person
+/time	/time
+/time	/time
+/location /location/city	/location /location/city
+/written_work	/transportation/road /location /transportation
+/person	/location/city
+/person	/person
+/government_agency	/organization
+/person	/person
+/person	/person
+/organization/sports_team	/organization
+/person	/person
+/person	/person
+/organization/sports_team	/organization /organization/sports_team
+/person	/person
+/location /building /building/sports_facility	/building/sports_facility /organization /building
+/person	/person
+/person	/person
+/person	/person
+/organization /organization/company /organization/sports_league	/organization /organization/company
+/location /location/city	/organization/sports_team /location /organization /location/city
+/location /building /building/sports_facility	/building/sports_facility
+/organization /organization/company /organization/sports_league	/organization /news_agency
+/organization /organization/company /organization/sports_league	/organization /organization/company /organization/sports_league
+/person	/person
+/time	/time
+/person	/person
+/organization	/person /organization
+/location /location/province	/location /location/province
+/organization/sports_team	/organization /organization/sports_team
+/location /building /building/sports_facility	/building /location /organization /building/sports_facility
+/location /location/city	/location /location/city
+/organization /organization/sports_team	/organization
+/location /organization/company /building /building/sports_facility	/building /location /organization /organization/company /building/sports_facility
+/location /location/city	/location /organization /location/city /organization/company /location/cemetery
+/person	/person
+/organization /organization/sports_league	/organization /organization/company /news_agency
+/organization /organization/sports_team	/organization/sports_team /person /organization /person/actor
+/location /location/city	/location /location/city /location/cemetery
+/person	/person
+/organization/company	/person
+/organization/company	/person
+/location /transportation/road	/location
+/location /transportation/road	/location
+/location /transportation/road	/location
+/organization /organization/sports_team	/location /location/city
+/location /building /building/sports_facility	/organization
+/organization/sports_team	/organization/sports_team /organization
+/organization /organization/sports_league	/organization /organization/sports_league
+/organization/sports_team	/organization /organization/sports_team
+/organization /organization/sports_league	/organization /organization/sports_league
+/organization/sports_team	/organization /organization/sports_team
+/organization/sports_team	/organization
+/location /location/city	/person
+/person	/person
+/organization/sports_team	/organization /organization/sports_team
+/person	/person
+/location /location/city	/location /location/city
+/person /person/politician	/person
+/time	/time
+/person	/person
+/location /location/city	/location /location/city
+/person	/person
+/location	/location
+/location /organization /organization/educational_institution	/organization /location /organization/educational_institution
+/location /organization /building	/building /location /organization
+/location /organization	/organization /location
+/person	/person /person/author
+/location /organization /building	/location /organization /building
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/location /location/city	/location /location/city
+/location /organization /organization/educational_institution	/organization /location /organization/educational_institution
+/time	/time
+/time	/time
+/person	/person /person/author
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/person	/location
+/person	/person
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/person	/person
+/organization	/organization /location
+/person	/person
+/person	/person
+/organization /building	/location /organization /building
+/location /location/city	/location /location/city
+/time	/time
+/organization	/location
+/person	/person
+/person /person/coach	/person /person/athlete /person/coach
+/organization /organization/sports_team	/organization /organization/sports_team
+/organization /organization/sports_team	/organization /location /organization/sports_team
+/location	/location
+/location /location/province	/location
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/organization /organization/sports_team	/organization /organization/sports_team
+/person	/person
+/person /person/athlete	/person
+/organization /organization/sports_team	/organization/sports_team /location /organization
+/time	/time
+/person /person/athlete	/person /person/athlete
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/organization /organization/sports_team	/organization /location /organization/sports_team
+/person	/person
+/person	/person
+/person /person/athlete	/person /person/athlete
+/person /person/athlete	/person /person/athlete
+/organization /organization/sports_team	/organization /organization/sports_team
+/organization /organization/sports_team	/organization /location /organization/sports_team
+/person	/person
+/person /person/athlete	/person /person/athlete
+/person /person/athlete	/person /person/athlete
+/person	/location
+/organization/sports_team	/organization /organization/sports_team
+/person /person/athlete	/person /person/athlete
+/person	/person
+/organization /organization/educational_institution	/organization
+/person /person/athlete	/person
+/organization/sports_team	/organization /organization/sports_team
+/organization/sports_team	/organization
+/time	/organization/sports_team
+/organization/sports_team	/organization
+/location	/location
+/organization/sports_team	/organization /organization/sports_team /organization/educational_institution /organization/sports_league
+/organization/sports_team	/organization /organization/sports_team /organization/educational_institution
+/organization/sports_team	/organization /organization/sports_team
+/person	/person
+/organization/sports_team	/organization /person /organization/sports_team
+/organization/sports_team	/organization /organization/sports_team
+/person /person/coach	/person
+/organization/sports_team	/person
+/person /person/athlete	/person
+/person /person/athlete	/person /person/athlete
+/person	/person
+/person /person/athlete	/person
+/organization/sports_team	/organization/sports_team /organization
+/organization/sports_team	/organization /organization/sports_team
+/location /organization/sports_team	/organization /organization/sports_team
+/organization/company /building	/location
+/location	/location /organization
+/written_work	/music
+/person	/person
+/person	/person
+/location	/location /location/city
+/location /location/city	/location /location/city
+/education/educational_degree	/education/educational_degree /education
+/location /organization /organization/educational_institution	/organization/educational_institution /location /organization
+/location /organization /organization/educational_institution	/organization/educational_institution /location /organization
+/location /location/country	/location /person /location/country /person/director
+/location /location/province	/location /location/province
+/person	/person
+/written_work	/organization
+/person	/person
+/person	/person
+/organization/company	/organization
+/person	/person
+/person	/person
+/person	/person
+/person	/organization
+/organization /organization/company	/organization /organization/company
+/person	/person
+/person	/person
+/person	/person
+/location /organization /organization/company	/organization /location /organization/company
+/person	/person
+/person	/person
+/person	/person
+/organization /organization/company	/location /organization /organization/company
+/person	/person
+/organization	/organization
+/location /location/city	/location /location/city
+/person	/person
+/person	/person
+/person	/person
+/location /organization /location/city /organization/company	/organization /organization/company
+/organization/company	/organization /organization/company /building
+/person	/person
+/organization /organization/company /building	/organization /location /organization/company
+/location /organization /organization/educational_institution	/organization /location /organization/educational_institution
+/location /location/province	/location
+/law	/law
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/event	/event
+/organization	/organization
+/location /organization	/organization
+/organization	/organization
+/person	/person
+/organization	/government/government /government
+/person	/person
+/person	/person
+/organization	/organization
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/organization	/person
+/person	/person
+/person	/person
+/location /location/province	/location
+/government_agency	/government_agency /building
+/person	/person /organization/company
+/person	/person
+/person	/person
+/organization	/organization
+/person /person/politician	/person /person/artist
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/organization	/organization
+/person	/person
+/person	/person
+/location /location/province	/location
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person /person/artist	/person
+/art	/person
+/art	/building
+/location /organization /building	/building /location
+/location /location/city	/location /location/city /government /government/government /location/province
+/person	/person
+/location /location/city	/location /location/city /government /government/government /location/province
+/location /location/country	/government/government /location /location/country /government
+/person	/person
+/person	/person
+/organization /organization/educational_institution	/location /organization
+/person /person/artist	/person
+/person	/person
+/person	/person
+/location /location/city	/location /location/city /government /government/government /location/province
+/person	/person
+/art	/written_work
+/person	/person /location/city
+/person	/person
+/location /location/city	/location /location/city /location/cemetery
+/person	/person
+/person	/location/city
+/location /building	/building /person
+/person	/person
+/art	/music
+/location /building	/building
+/person	/person /person/author
+/person	/location/city
+/person	/person
+/person /person/artist	/person
+/location /building	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person /person/author
+/person	/person
+/person	/person
+/person	/person
+/art	/music
+/art	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/art	/written_work
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/organization /organization/company /written_work /news_agency	/written_work /person /organization /news_agency
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/organization	/organization
+/location /people/ethnicity	/location
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/person	/person
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/location	/location
+/location	/location
+/person	/person
+/organization	/organization
+/person	/person
+/person	/person
+/organization	/organization
+/location	/location
+/person	/person
+/organization	/organization
+/organization	/organization
+/person	/person
+/person	/person
+/organization	/organization
+/person	/person
+/time	/time
+/organization	/organization
+/person	/person
+/organization	/organization
+/people/ethnicity	/people/ethnicity /people
+/people/ethnicity	/people/ethnicity /people
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/person	/person
+/organization	/organization
+/person	/person
+/location /people/ethnicity	/people/ethnicity /people
+/organization	/organization
+/organization	/organization
+/person	/person
+/person	/person
+/person	/person
+/event	/event
+/event	/broadcast_program
+/person	/person
+/location /people/ethnicity	/location
+/location /location/city	/location /location/city
+/person	/person /person/author
+/organization	/organization
+/organization	/organization
+/organization /organization/educational_institution	/organization /organization/educational_institution
+/organization	/organization
+/organization	/organization
+/organization	/organization
+/organization /organization/educational_institution	/organization
+/event	/organization
+/person	/person
+/time	/time
+/organization	/organization /organization/company
+/location /building /building/hospital	/building /location /organization /building/hospital
+/organization	/organization
+/person	/person
+/person	/person
+/person	/person
+/organization	/person
+/location /location/country	/location /person /person/artist /location/country /people/ethnicity /people
+/person	/person
+/person	/person /person/author
+/person	/person
+/organization /government_agency	/organization
+/building	/location /organization
+/person	/person
+/person	/organization
+/organization	/organization /person
+/person	/person
+/organization	/organization
+/person	/person
+/government_agency	/building /government_agency /location/county
+/person	/person
+/person	/person
+/person	/person /person/athlete
+/location /location/city	/location
+/person	/person
+/person	/person
+/person	/person
+/organization	/location
+/person	/person
+/person	/person
+/location /location/city	/location/city /location
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/person
+/person	/written_work
+/person	/person
+/person	/person
+/person	/person
+/person /person/doctor	/person
+/organization /military	/organization /person /person/author /organization/company /military /person/engineer
+/location /location/city	/location/city /location
+/person /person/soldier	/person
+/person /person/soldier	/person
+/organization /military	/military /organization /person/author
+/location /location/country	/location /location/country
+/living_thing /livingthing/animal	/living_thing
+/living_thing /livingthing/animal	/location
+/building /building/hospital	/organization
+/person	/person
+/medicine/medical_treatment	/written_work
+/organization /military	/military /organization
+/person /person/soldier	/person
+/location /location/city	/location/city /location
+/person	/person
+/person	/person /person/actor
+/living_thing /livingthing/animal	/location
+/person	/location /location/city
+/person	/person
+/person	/person
+/location	/location
+/location	/event
+/organization /organization/company	/organization
+/person	/person
+/location	/event
+/organization /organization/company /internet/website	/internet/website /organization /organization/company /internet
+/organization /organization/company	/location
+/organization /organization/company	/organization/company /person /organization /person/engineer
+/organization /organization/company	/organization/company /person /organization /person/engineer
+/product	/train /organization /product
+/organization /organization/company	/person /organization /organization/company
+/event	/organization
+/organization	/organization
+/product	/organization
+/product	/organization /organization/company
+/internet/website	/person
+/organization /organization/company	/organization/company /organization
+/organization /organization/company	/organization/company /organization
+/event	/organization /organization/company
+/organization /organization/company	/organization/company /organization
+/organization /organization/company	/organization /person /organization/company /person/engineer
+/location /location/city	/location /location/city
+/location /location/country	/location /location/country
+/person /person/artist	/person /person/artist
+/location /location/country	/location /location/country
+/organization	/organization
+/organization	/person/author /location /person /organization /person/artist /government /government/government /news_agency
+/person	/person
+/organization	/location
+/product	/location
+/location /location/country	/people
+/person	/person
+/location /location/country	/person
+/organization /organization/educational_institution	/organization /location /organization/educational_institution
+/organization /organization/educational_institution	/location /organization /organization/educational_institution
+/location /location/city	/location /location/city /transportation/road /transportation
+/location /location/country	/location /location/country /government /government/government /location/cemetery /government_agency /park
+/organization	/organization
+/organization	/organization
+/location /location/country	/government/government /location /location/country /government
+/medicine/symptom	/medicine
+/medicine/symptom	/medicine /medicine/medical_treatment
+/organization /organization/educational_institution	/organization /location /organization/educational_institution
+/location /location/city	/location /location/city
+/location /location/country	/location /location/country /government /government/government

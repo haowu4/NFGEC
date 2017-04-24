@@ -15,9 +15,13 @@ def create_dataset(corpus_path,label2id,word2id,feature2id):
             
     with open(corpus_path) as f:
         for line in f:
-            if len(line.split("\t")) != 5:
-                continue
-            (start,end,words,labels,features) = line.strip().split("\t") 
+            if len(line.strip().split("\t")) != 5:
+                (start, end, words, labels) = line.strip().split("\t")
+                features = ""
+                # print(line)
+                #continue
+            else:
+                (start,end,words,labels,features) = line.strip().split("\t") 
             labels, words, features = labels.split(), words.split(), features.split()
             length = len(words)
             start, end = int(start), int(end)
@@ -45,6 +49,9 @@ def main():
     dicts = joblib.load(sys.argv[1])
     label2id = dicts["label2id"]
     word2id = dicts["word2id"]
+    if 'unk' not in word2id:
+        word2id['unk'] = word2id["Marjie"]
+
     feature2id = dicts["feature2id"]
     storage,data = create_dataset(sys.argv[2],label2id,word2id,feature2id)
     dataset = {"storage":storage,"data":data}
